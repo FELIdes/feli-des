@@ -25,7 +25,7 @@ Un mercredi par mois, de 19h à 22h, à la MJC Parmentier (3 rue Parmentier, Gre
 Nos prochains ateliers :
 *à venir*
 
-N’hésitez pas à nous suivre sur [Discord](https://discord.gg/dCk7svSNwb), [Insta] (https://www.instagram.com/felides_grenoble/) ou [Facebook ](https://www.facebook.com/felides.grenoble) pour connaitre les tables proposées en Dé-Dimanche et les thèmes des ateliers !
+N’hésitez pas à nous suivre sur [Discord](https://discord.gg/dCk7svSNwb), [Insta](https://www.instagram.com/felides_grenoble/) ou [Facebook ](https://www.facebook.com/felides.grenoble) pour connaitre les tables proposées en Dé-Dimanche et les thèmes des ateliers !
 
 # Autres événements :
 
