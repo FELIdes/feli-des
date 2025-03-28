@@ -19,6 +19,7 @@ L’association a pour valeurs de partager le jeu de rôle et les cultures de l�
  - Mathilde : Paladine chatoyante
  - Romain : Administrateur
  - Johann : Administrateur
+ - Jude : Administrateur
  - Pierre : Administrateur
 
 Le CA est renouvelé par moitié tous les ans, lors de l'Assemblée Générale qui a lieu entre janvier et mars. N’hésitez pas à vous présenter si vous êtes membre ! 
