@@ -145,7 +145,7 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 
 Cette association a pour objet : jouer, transmettre et échanger sur la pratique du jeu de rôle avec toutes et tous.
 
-###ARTICLE 3 - VALEURS
+### ARTICLE 3 - VALEURS
 
 Cette association a pour valeurs de partager le jeu de rôle et les cultures de l’imaginaire à toutes les personnes, en promouvant des pratiques rôlistes dans un cadre de jeu inclusif favorisant la diversité des joueuses et joueurs. À ce titre, toutes ses communications au public utilisent un langage reflétant ses valeurs d’inclusion, adaptée au mode de communication choisi.
 
