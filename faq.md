@@ -33,7 +33,7 @@ L’association essaye d’accueillir tous les publics selon ses moyens. Nous vo
 # Événements
 *Je veux proposer une table, je peux ?*
 
-Oui ! N’importe qui peut proposer une table en one shot à un de nos Dé-Dimanche. Nous ne vous demandons que deux choses, appliquer la [charte](https://felides-jdr.fr/charte%20et%20statuts%20de%20l%E2%80%99association.html), donc utiliser une carte X ou un autre outil de sécurité émotionnelle, et nous faire parvenir votre annonce de partie dans la semaine précédant l’événement. Vous pouvez soit le faire directement sur notre [discord](https://discord.gg/dCk7svSNwb](https://discord.gg/dCk7svSNwb), soit nous envoyer un [mail](https://felides-jdr.fr/contact.html) avec le nombre de PJ, la durée, le nom du JDR, une petite présentation de la partie, et la liste de trigger warning. Comme cela, nous pourrons partager l’annonce et attirer des PJ assoiffés de jeu !
+Oui ! N’importe qui peut proposer une table en one shot à un de nos Dé-Dimanche. Nous ne vous demandons que deux choses, appliquer la [charte](https://felides-jdr.fr/charte%20et%20statuts%20de%20l%E2%80%99association.html), donc utiliser une carte X ou un autre outil de sécurité émotionnelle, et nous faire parvenir votre annonce de partie dans la semaine précédant l’événement. Vous pouvez soit le faire directement sur notre [discord](https://discord.gg/dCk7svSNwb), soit nous envoyer un [mail](https://felides-jdr.fr/contact.html) avec le nombre de PJ, la durée, le nom du JDR, une petite présentation de la partie, et la liste de trigger warning. Comme cela, nous pourrons partager l’annonce et attirer des PJ assoiffés de jeu !
 
 *Je veux proposer un atelier, je peux ?*
 
