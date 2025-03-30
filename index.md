@@ -7,7 +7,7 @@ in_menu: true
 
 ![Logo de l'association. Le chat-mascotte, Fumble est enroulé autour d'un D20 où il est marqué 38(Isère)]({% link images/Logo félidé.png %})
 
-Les FÉLI’dés sont une association ([à propos](https://felides-jdr.fr/a%20propos%20de%20l%E2%80%99association.html) ) proposant des parties de jeu de rôle et des ateliers de discussions sur le jeu de rôle, dans un cadre bienveillant et inclusif ([Lire notre charte](https://felides-jdr.fr/charte%20et%20statuts%20de%20l%E2%80%99association.html)).
+Les FÉLI’dés sont une association ([à propos](https://felides-jdr.fr/a%20propos%20de%20l%E2%80%99association.html)) proposant des parties de jeu de rôle et des ateliers de discussions sur le jeu de rôle, dans un cadre bienveillant et inclusif ([Lire notre charte](https://felides-jdr.fr/charte%20et%20statuts%20de%20l%E2%80%99association.html)).
 
 ## Nos Dé-Dimanches
 
