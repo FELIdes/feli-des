@@ -1,6 +1,6 @@
 ---
 title: "RGPD"
-order: 8
+order: 6
 in_menu: true
 ---
 Nous utilisons des données personnelles dans le cadre de votre adhésion à l'association et de l'utilisation de ce site.

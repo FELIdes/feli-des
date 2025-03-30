@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-order: 5
+order: 4
 in_menu: true
 ---
 # Adhésion
