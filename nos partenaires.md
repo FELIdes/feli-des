@@ -13,7 +13,7 @@ Située au 3 rue Parmentier, la MJC nous donne accès à ses locaux pour nos Dé
 # La Tanière
 [Leur site](https://tanierejeux.fr/#presentation)
 
-Ce bar à jeux (8 rue Ampère) réalise avec nous un après-midi JDR tous les deux mois, en échange de consommations par les PJs.
+Ce bar à jeux (8 rue Ampère) réalise avec nous un après-midi JDR tous les deux mois, en échange de consommations par les joueureuses.
 
 ![Logo de la Tanière au coin du jeu]({% link images/Logo la Tanière.jpg %})
 
