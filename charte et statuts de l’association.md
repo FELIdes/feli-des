@@ -23,7 +23,7 @@ La non-connaissance de cette charte n’est pas recevable en cas de non-respect.
  
 
 ### I – Événements des Féli’dés
-#### A)	Accueil des événements
+#### A) Accueil des événements
 
 Les activités au sein de l’association sont ouvertes à toustes, dans le respect de toustes. Chacun(e) a droit au même respect, quelles que soient son identité ou expression de genre, âge, orientation politique ou sexuelle, croyance ou religion, nationalité, apparence physique, accent, opinions, origine ou ethnie. Les comportements tels que le harcèlement, l’intimidation, les menaces, les agressions verbales ou physiques, les commentaires obscènes ou offensants, les comportements contrevenant aux législations en vigueur (racisme, sexisme, etc.) sont interdits. Sont interdits aussi toutes discriminations portant sur le handicap par le biais de psychophobie et de validisme (handicap visible ou invisible). Et de façon générale, toute attitude présentant un manque de respect, sont strictement interdits. Dans de tels cas, des sanctions allant de l’avertissement à la radiation pourront être prononcées par les membres du CA. 
 
@@ -42,17 +42,17 @@ Toute personne participant à un événement de l’asso doit préciser son pré
 #### D) Échanges entre membres
 
 Rappelez-vous que tout échange implique que le dialogue soit consenti, que ce soit sur les lieux des événements de l’association ou les espaces d’échanges. Pas de problème évidemment pour nouer des liens avec des personnes partageant les mêmes passions que vous. Cependant :
-•	Le consentement est libre, éclairé, explicite, enthousiaste, spécifique et surtout révocable à tout moment.
-•	Non = non.
-•	L’absence de oui équivaut à un non.
+- • Le consentement est libre, éclairé, explicite, enthousiaste, spécifique et surtout révocable à tout moment.
+- • Non = non.
+- • L’absence de oui équivaut à un non.
 
 
-### II-	Jeu de rôle
-#### A)	Pourquoi faire attention dans le jeu de rôle ?
+### II- Jeu de rôle
+#### A) Pourquoi faire attention dans le jeu de rôle ?
 
 Le jeu de rôle implique une implication émotionnelle à travers l’avatar du personnage. Cette implication n’est pas toujours facile à gérer et peut parfois conduire à une mauvaise expérience ou à un traumatisme, c’est ce que l’on appelle le « bleed ». Le bleed est un mélange d’émotions qui se crée entre le joueur ou la joueuse et son personnage, et qui fonctionne dans un sens comme dans l’autre. Les règles décrites ci-après veulent simplement garantir une certaine sécurité aux participants. C’est comme lorsqu’un événement sportif fournit aux participants du matériel de protection et un espace de jeu sécurisé (protège-tibias et terrain homologué pour le football, distances de sécurité et champ de tir pour le tir à l’arc, etc).
 
-#### B)	Outils et présentation lors des parties
+#### B) Outils et présentation lors des parties
 
 Les participant(e)s sont libres de proposer des parties de jeux qu’iels animeront iels-mêmes. Avant de débuter une partie, tous les éléments ci-dessous doivent être respectés afin d’offrir une expérience de jeu sûr à chacun.
 Le briefing :
@@ -63,17 +63,17 @@ Outils de sécurité émotionnelle :
 Afin de tenir compte des sensibilités de chacun, l’usage d’un outil de sécurité émotionnelle sur chaque partie est obligatoire. Chaque personne est libre de proposer son outil de sécurité, tant que cela fasse consensus autour de la table avec l’accord d’un membre du CA.
 Par défaut, si aucun outil n’est proposé, nous demandons l’usage de la Carte-X. Si une personne (MJ ou PJ) à la table est mal à l’aise face à un contenu de la partie (scène, personnage, ambiance, dialogue, roleplay, peu importe) iel peut soulever la carte pour indiquer qu’il y a un malaise. Les autres personnes seront donc au courant qu’il y a un problème et pourront passer à la scène suivante, sans demander à la personne dérangée d’expliquer son malaise (ce qui risquerait de lui poser encore plus de problèmes). La présence de la carte-X n’empêche pas le dialogue, vous pouvez toujours l’ignorer et juste dire ce qui vous pose un problème si vous préférez. Pour expliquer le fonctionnement de la carte, lae MJ peut, s’inspirer de ce texte : 
 « J’ai besoin de votre aide, pour que tout le monde s’amuse. Si quoi que ce soit durant la partie gêne qui que ce soit de quelque façon que ce soit il vous suffit de lever cette carte, ou de poser votre doigt dessus [placez la carte au centre de la table]. Vous ne devez pas expliquer pourquoi. La raison est sans importance. Quand l’un de nous soulève cette carte, nous supprimons tout simplement ce qui a été ex-carté. Et si jamais il y a un problème, n’importe qui peut demander une pause et nous pouvons en discuter en privé. Je sais que cela a l’air bizarre, mais cela va nous aider à jouer des parties extraordinaires ensemble. S’il vous plaît, aidons-nous mutuellement à rendre cette partie amusante pour toustes. Merci. » 
-(Inspiré de https://ptgptb.fr/la-carte-x )
+(Inspiré du site [PTGPTB](https://ptgptb.fr/la-carte-x))
 Les Féli’dés fourniront au besoin une Carte X, à demander aux membres du CA, avec les explications sur son utilisation.
 
-#### C)	Comportements et attitudes en jeu
+#### C) Comportements et attitudes en jeu
 
 Jouer des sujets sensibles est possible, dès lors que le contexte (univers, époque) du jeu le justifie, et ce toujours dans les limites définies avec le groupe en début de partie. Il est important de garder à l’esprit que les attitudes des personnages ne sont pas celles des joueureuses, mais qu’iels doivent prendre garde à ne pas utiliser leurs personnages comme excuse pour véhiculer une attitude irrespectueuse envers les participants. 
 Aussi bien pour le MJ que les PJs, jouer ou assister au roleplay de l’un de ces comportements peut être pénible, voire agressif et nous ne sommes pas réunis pour subir cela. 
 Si vous souhaitez faire jouer dans un décor où ces discriminations sont importantes il n’est pas interdit d’en parler ou de les faire jouer. Cependant, prévenez de vos intentions en tant que MJ au moment du briefing et des avertissements de contenus pour que les joueureuses puissent choisir de ne pas aller à votre table. 
 Soyez attentifs à ce que tout le monde, MJ et PJs, soit à l’aise avec ce qu’il se passe à la table et évidemment, faites clairement la distinction entre les persécutions auxquels font face les personnages joués et le respect obligatoire entre les personnes réelles en train de jouer.
 
-#### D)	Un univers de diversités
+#### D) Un univers de diversités
 
 Le jeu de rôle permet d’échapper au quotidien en vivant de formidable aventures, qu’elles soient héroïques ou horrifiques. Nous pouvons incarner des personnages qui nous correspondent ou à l’inverse tester de nouvelles choses.
 Pour cela, si vous êtes MJ, essayez autant que possible de proposer une large diversité de vos personnages tout en évitant les clichés du guerrier mâle musclé, de la prêtresse féminine gentille qui soigne tout le monde… Nous vous encourageons à laisser les joueureuses choisir le genre et l’orientation du personnage Si ce choix est restrictif, cela doit être annoncé dans le briefing.
@@ -82,25 +82,25 @@ Pour les joueureuses, vous êtes libres d’interprétez qui vous voulez tant qu
 #### E) Sujets interdits
 
 Les événements au sein de l’association se font avec des personnes qui souvent ne se connaissent pas et parfois avec des mineurs. C’est pour cela que certains sujets sensibles sont interdit d’office tant montré en jeu que de la part des joueureuses :
-•	Viol, pédophilie et inceste.
-•	Torture explicite et détaillé.
+- • Viol, pédophilie et inceste.
+- • Torture explicite et détaillé.
 
 
-### III-	Agir en cas de comportement inapproprié
-#### A)	Que faire si vous êtes victime d’un comportement inapproprié ?
+### III- Agir en cas de comportement inapproprié
+#### A) Que faire si vous êtes victime d’un comportement inapproprié ?
 
 Pour cela, plusieurs options s’offrent à vous selon vos moyens et possibilités :
-•	Une option est d’en parler directement à la personne concernée. Souvent, il est difficile de se rendre compte de la portée de ses actes et paroles. Dans bien des cas, le simple fait de le faire savoir peut résoudre la situation. 
-•	Vous pouvez chercher de l’aide auprès des autres participant(e)s à la partie.
-•	 Vous pouvez chercher le paladin Chat-oyant ou un membre du CA si iel n’est pas là (iels se seront signalés en début d’événement et seront facilement identifiables) qui interviendra dans le but d’apaiser la situation. Le paladin Chat-oyant est notre responsable pour toute médiation entre les personnes et il ne faut donc pas hésiter à solliciter son intervention.
+- • Une option est d’en parler directement à la personne concernée. Souvent, il est difficile de se rendre compte de la portée de ses actes et paroles. Dans bien des cas, le simple fait de le faire savoir peut résoudre la situation. 
+- • Vous pouvez chercher de l’aide auprès des autres participant(e)s à la partie.
+- • Vous pouvez chercher le paladin Chat-oyant ou un membre du CA si iel n’est pas là (iels se seront signalés en début d’événement et seront facilement identifiables) qui interviendra dans le but d’apaiser la situation. Le paladin Chat-oyant est notre responsable pour toute médiation entre les personnes et il ne faut donc pas hésiter à solliciter son intervention.
 
-#### B)	Que faire si vous êtes témoin d’un comportement inapproprié ?
+#### B) Que faire si vous êtes témoin d’un comportement inapproprié ?
 
 Là encore, une option est d’en parler directement à la personne concernée. N’hésitez pas à interrompre un échange pour cela ! Il est possible que les deux parties soient en réalité en train d’interpréter une situation fictive et que tout se déroule bien, mais il vaut mieux une interruption de trop que pas assez. 
 Si vous pensez que la victime est en situation difficile ou dangereuse, assurez-vous qu’iel se porte bien et proposez-lui d’aller chercher le paladin Chat-oyant ou un(e) membre du CA tout en l’éloignant de l’auteurice de cet acte inapproprié. 
 Si la victime vous semble menacée ou isolée, ne la laissez pas seule. Dans tous les cas, n’ayez jamais recours à la violence, qu’elle soit physique ou verbale, et gardez votre calme en sollicitant l’intervention du paladin Chat-oyant ou d’un(e) membre du CA pour médiation.
 
-#### C)	Que faire si l’on vous reproche un comportement inapproprié ?
+#### C) Que faire si l’on vous reproche un comportement inapproprié ?
 
 Si une personne vous reproche votre comportement ou vous demande de la laisser tranquille, vous êtes prié de vous excuser et de stopper l’action qui a conduit à cette situation. Bien qu’il soit compréhensible de demander de brèves précisions (pour aider à identifier le problème et éviter de le reproduire), ne cherchez ni à vous justifier, ni à demander une justification, et respectez la sensibilité de cette personne. 
 N’hésitez pas à contacter le paladin Chat-oyant ou un(e) membre du CA qui pourra vous conseiller afin de résoudre votre problème et ainsi continuer à profiter pleinement de l’événement.
@@ -113,7 +113,7 @@ Le respect des voisins est aussi important et il est de notre rôle de veiller �
 Il est bienvenu que les membres aident à l’installation et à la désinstallation de l’événement.
 
 
-### V-	Sanctions
+### V- Sanctions
 
 Si les membres du CA constatent ou se voient rapportés un comportement inapproprié ou une violation de la charte, iels prendront les mesures qu’iels jugeront appropriées par les statuts de l’association. 
 Lors d’un événement, lesdites mesures peuvent aller d’un simple avertissement à l’expulsion de l’événement. Ces sanctions peuvent en déboucher sur des plus graves qui seront discutées en CA. Les membres du CA présent(e)s auront dans tous les cas le dernier mot pour trancher de l’issue d’une situation. 
@@ -121,14 +121,14 @@ Les sanctions les plus graves comme la radiation et la mise sur liste noire de l
 En cas de problèmes non-prévus par la charte, ce sera aux membres du CA présents de décider sur le moment. Le CA se réunira ensuite pour savoir comment couvrir ces problèmes lors de prochains événements.
 
 
-### VI-	Responsabilités de l’association
+### VI- Responsabilités de l’association
 
-Dans le cadre de cette charte, des missions de promotions de la pratique des jeux de simulation et de l’imaginaire, ainsi que des valeurs de l’association, les Féli’dés s’engagent à :
-•	Présenter de façon synthétique la charte lors des événements.
-•	Ecouter toute sollicitation sans jugement ni divulgation sans consentement explicite.
-•	Rendre les événements physiquement accessibles à toustes dans la mesure de nos moyens.
-•	Prendre en compte les retours des membres et participant(e)s non-membres pour l’amélioration du confort et du plaisir ludique de toustes.
-•	Rendre identifiables tous membres du CA ou responsables pouvant être sollicités dans le cadre de conflits ou de non-respect de la charte.
+Dans le cadre de cette charte, des missions de promotions de la pratique des jeux de simulation et de l’imaginaire, ainsi que des valeurs de l’association, les FELI’dés s’engagent à :
+- • Présenter de façon synthétique la charte lors des événements.
+- • Écouter toute sollicitation sans jugement ni divulgation sans consentement explicite.
+- • Rendre les événements physiquement accessibles à toustes dans la mesure de nos moyens.
+- • Prendre en compte les retours des membres et participant(e)s non-membres pour l’amélioration du confort et du plaisir ludique de toustes.
+- • Rendre identifiables tous membres du CA ou responsables pouvant être sollicités dans le cadre de conflits ou de non-respect de la charte.
 N’oubliez pas que l’important dans cette charte est son intention. Merci de ne pas la détourner et rappelez-vous que le but est de toustes jouer ensemble. Nous vous souhaitons une excellente partie avec nous !
 Contact : felides38@gmail.com
 
@@ -152,12 +152,10 @@ Cette association a pour valeurs de partager le jeu de rôle et les cultures de 
 ### ARTICLE 4 - ACTIVITÉS
 
 L’association a pour but de proposer ces activités :
--
-Des parties de jeu de rôle pour toutes les joueuses et tous les joueurs, expérimentés ou débutants, sur un créneau régulier ;
--
-Des ateliers autour de la pratique du jeu de rôle ;
--
-Tout évènement à destination du public promouvant le jeu de rôle, les cultures de l’imaginaire et les valeurs d’inclusivité dans le jeu.
+
+- Des parties de jeu de rôle pour toutes les joueuses et tous les joueurs, expérimentés ou débutants, sur un créneau régulier ;
+- Des ateliers autour de la pratique du jeu de rôle ;
+- Tout évènement à destination du public promouvant le jeu de rôle, les cultures de l’imaginaire et les valeurs d’inclusivité dans le jeu.
 
 ### ARTICLE 5 - SIÈGE SOCIAL
 Le siège social est fixé au 6 rue Berthe de Boisseux, 38000, Grenoble, à la Maison Des Associations. Le siège social pourra être transféré par simple décision du Conseil d’Administration.
