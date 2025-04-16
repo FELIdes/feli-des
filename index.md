@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Bienvenue chez les FELI'dés !
+<p class="encart">Bienvenue chez les FELI'dés !</p>
 
 ![Logo de l'association. Le chat-mascotte, Fumble est enroulé autour d'un D20 où il est marqué 38(Isère)]({% link images/Logo félidé.png %})
 
