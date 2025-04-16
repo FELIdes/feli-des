@@ -35,6 +35,6 @@ Plus d'infos pour perdre de la santé mentale [ici](https://www.youtube.com/watc
 ![Image d'une chorégraphie musicale jouée lors d'un DD avec une partie de l'Appel de Chtulhu]({% link images/Chorégraphie musicale.png %}) 
 
 
-<p class="encart">LE PLUS MIGNON DE TOUS LES CHATS DE LA TERRE !!!</p>
+<p class="encart">SABBAT, LE PLUS MIGNON DE TOUS LES CHATS DE LA TERRE !!!</p>
 
 ![Le chat le plus mignon du monde !]({% link images/Sabbat le plus beau.jpg %}) 
