@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Articles
-permalink: /articles/
+title: "Articles"
+order: 1
+in_menu: true
 blog_index: true
 ---
 <aside>
@@ -19,3 +19,5 @@ blog_index: true
 </article>
 <hr />
 {% endfor %}
+
+*Fonctionnalité en cours de test et de construction* 
