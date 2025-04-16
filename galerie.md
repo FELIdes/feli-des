@@ -33,3 +33,8 @@ Si vous êtes présent sur une des photographies ici et que vous souhaitez chang
 Plus d'infos pour perdre de la santé mentale [ici](https://www.youtube.com/watch?v=td24Gag2P0I&ab_channel=FELI%27d%C3%A9s-Grenoble) (Merci à Alexis, Cédric et Nadège d'avoir joués le jeu)
 
 ![Image d'une chorégraphie musicale jouée lors d'un DD avec une partie de l'Appel de Chtulhu]({% link images/Chorégraphie musicale.png %}) 
+
+
+<p class="encart">LE PLUS MIGNON DE TOUS LES CHATS DE LA TERRE !!!</p>
+
+![Le chat le plus mignon du monde !]({% link images/Sabbat le plus beau.jpg %}) 
