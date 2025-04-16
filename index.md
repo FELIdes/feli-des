@@ -15,10 +15,11 @@ Venez faire une partie sur l’après-midi (one shots uniquement), découvrir le
 Un dimanche sur deux, en semaine paire, de 14h à 20h à la MJC Parmentier ([Nous contacter](https://felides-jdr.fr/contact.html)). Gratuit, sans inscription. Ouvert aux débutant·e·s et aux vétérans ! 
 
 **Nos prochains Dé-Dimanches :**
-- Dimanche 6 avril
+
 - Dimanche 20 avril
 - Dimanche 4 mai
 - Dimanche 18 mai
+- Dimanche 1er juin
 
 ## Nos Ateliers JDR
 
