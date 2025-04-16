@@ -9,6 +9,8 @@ in_menu: true
 
 Les FÉLI’dés sont une association ([à propos](https://felides-jdr.fr/a%20propos%20de%20l%E2%80%99association.html)) proposant des parties de jeu de rôle et des ateliers de discussions sur le jeu de rôle, dans un cadre bienveillant et inclusif ([Lire notre charte](https://felides-jdr.fr/charte%20et%20statuts%20de%20l%E2%80%99association.html)).
 
+<a href="https://linktr.ee/feli.des" class="bouton">Toutes nos ressources et réseaux ici !</a>
+
 ## Nos Dé-Dimanches
 
 Venez faire une partie sur l’après-midi (one shots uniquement), découvrir le jeu de rôle ou de nouveaux univers, ou proposez vous-même une partie ! 
