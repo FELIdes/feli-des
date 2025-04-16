@@ -5,7 +5,9 @@ in_menu: true
 ---
 ## Les différents événements de l'association illustrées ici
 
-Lors de nos événements, nous demandons et faisons signer une autorisation de droit à l'image pour toutes les personnes concernées. 
+Lors de nos événements, nous demandons et faisons signer une autorisation de droit à l'image pour toutes les personnes concernées. Aucune image comprenant des individus ne sera publiée sans l'accord de ces derniers.
+
+Si vous êtes présent sur une des photographies ici et que vous souhaitez changer d'avis sur votre droit à l'image alors ([contactez-nous](https://felides-jdr.fr/contact.html)) afin que nous dissimulions votre identité ou que nous retirions la photographie le cas échéant.
 
 <p class="encart">Les Dé-Dimanche</p>
 
