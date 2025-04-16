@@ -3,21 +3,21 @@ title: "Nos partenaires"
 order: 5
 in_menu: true
 ---
-# La MJC Parmentier 
+<p class="encart">La MJC Parmentier</p>
 [Leur site](https://mjcparmentier2.wixsite.com/mjcparmentier)
 
 Située au 3 rue Parmentier, la MJC nous donne accès à ses locaux pour nos Dé-Dimanches et Ateliers. De plus, nous y avons un partenariat pour y faire des animations auprès de la jeunesse du quartier, pendant les vacances scolaires.
 
 ![Logo de la MJC Parmentier]({% link images/Logo MJC Parmentier.png %})
 
-# La Tanière
+<p class="encart">La Tanière</p>
 [Leur site](https://tanierejeux.fr/#presentation)
 
 Ce bar à jeux (8 rue Ampère) réalise avec nous un après-midi JDR tous les deux mois, en échange de consommations par les joueureuses.
 
 ![Logo de la Tanière au coin du jeu]({% link images/Logo la Tanière.jpg %})
 
-# La Maison des Associations
+<p class="encart">La Maison des Associations</p>
 
 [Leur site](https://www.grenoble.fr/308-grenoble-associations.htm)
 
