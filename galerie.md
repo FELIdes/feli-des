@@ -26,6 +26,8 @@ Si vous êtes présent sur une des photographies ici et que vous souhaitez chang
 ![Image du stand FELi'dés avec le roll-up à PAJ 2025]({% link images/PAJ 2025 1.jpg %})
 
 
-<p class="encart">[Une mystérieuse chorégraphie musicale](https://www.youtube.com/watch?v=td24Gag2P0I&ab_channel=FELI%27d%C3%A9s-Grenoble) à un DD...</p>
+<p class="encart">Une mystérieuse chorégraphie musicale à un DD...</p>
+
+Plus d'infos pour perdre de la santé mentale [ici](https://www.youtube.com/watch?v=td24Gag2P0I&ab_channel=FELI%27d%C3%A9s-Grenoble) (Merci à Alexis, Cédric et Nadège d'avoir joués le jeu)
 
 ![Image d'une chorégraphie musicale jouée lors d'un DD avec une partie de l'Appel de Chtulhu]({% link images/Chorégraphie musicale.png %}) 
