@@ -9,7 +9,7 @@ Charte de respect et de bonne conduite [ici](https://drive.google.com/file/d/16-
 
 Statuts de l'association [ici](https://drive.google.com/file/d/13p_f3LrRuIiMkPlNA2aQtwdKrppreiup/view?usp=drive_link) 
 
-## Charte de respect et de bonne conduite
+<p class="encart">Charte de respect et de bonne conduite</p>
 
 ### **Introduction :**
 
@@ -133,7 +133,7 @@ N’oubliez pas que l’important dans cette charte est son intention. Merci de 
 Contact : felides38@gmail.com
 
 
-## Statuts de l'association
+<p class="encart">Statuts de l'association</p>
 
 « FÉLI’dés (Fantastique Équipée Ludique Inclusive avec des dés) »
 
