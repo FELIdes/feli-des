@@ -25,6 +25,8 @@ Si vous êtes présent sur une des photographies ici et que vous souhaitez chang
 
 ![Image du stand FELi'dés avec le roll-up à PAJ 2025]({% link images/PAJ 2025 1.jpg %})
 
+![Stand des FELI'dés à PAJ 2025 avec des bénévoles de l'association]({% link images/PAJ 2025 2.jpg %})
+
 
 <p class="encart">Une mystérieuse chorégraphie musicale à un DD...</p>
 
