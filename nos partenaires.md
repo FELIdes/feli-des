@@ -1,6 +1,6 @@
 ---
 title: "Nos partenaires"
-order: 5
+order: 6
 in_menu: true
 ---
 <p class="encart">La MJC Parmentier</p>

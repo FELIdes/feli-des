@@ -1,6 +1,6 @@
 ---
 title: "Galerie"
-order: 9
+order: 2
 in_menu: true
 ---
 ## Les différents événements de l'association illustrées ici
