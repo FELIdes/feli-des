@@ -11,6 +11,8 @@ Les FÉLI’dés sont une association ([à propos](https://felides-jdr.fr/a%20pr
 
 <a href="https://linktr.ee/feli.des" class="bouton">Toutes nos ressources et réseaux ici !</a>
 
+## Période estivale. Nos activités régulières sont en pause et reprennent dès septembre ! Nous proposerons des activités ponctuelles durant l'été. Vous pouvez nous suivre ici ou sur nos réseaux grâce au bouton ci-dessus. Merci de votre présence chez les FELI'dés si vous êtes venus durant cette deuxième saison et à bientôt ! Et si vous ne connaissez pas encore l'asso, nous avons hâte de faire votre connaissance.
+
 ## Nos Dé-Dimanches
 
 Venez faire une partie sur l’après-midi (one shots uniquement), découvrir le jeu de rôle ou de nouveaux univers, ou proposez vous-même une partie ! 
@@ -18,10 +20,7 @@ Un dimanche sur deux, en semaine paire, de 14h à 20h à la MJC Parmentier ([Nou
 
 **Nos prochains Dé-Dimanches :**
 
-- Dimanche 20 avril
-- Dimanche 4 mai
-- Dimanche 18 mai
-- Dimanche 1er juin
+*A venir pour la saison 3 :D*
 
 ## Nos Ateliers JDR
 
@@ -29,9 +28,8 @@ Un atelier où on discute ensemble d’un thème en rapport avec le jeu de rôle
 Un mercredi par mois, de 19h à 22h, à la MJC Parmentier (3 rue Parmentier, Grenoble) ([nous contacter](https://felides-jdr.fr/contact.html)). Gratuit, sans inscription. Ouvert aux joueur·euse·s des deux côtés de l’écran, expérimenté·e·s ou non !
 
 Nos prochains ateliers :
-- Mercredi 16 avril : Atelier pratique : les débutant·es masteurisent
-- Mercredi 14 mai : *Thème à définir*
-- Mercredi 11 juin : *Thème à définir*
+
+*A venir pour la saison 3 :D*
 
 **N’hésitez pas à nous suivre sur [Discord](https://discord.gg/dCk7svSNwb), [Insta](https://www.instagram.com/felides_grenoble/) ou [Facebook ](https://www.facebook.com/felides.grenoble) pour connaître les tables proposées en Dé-Dimanche et les thèmes des ateliers !**
 
@@ -39,7 +37,7 @@ Nos prochains ateliers :
 
 **Dates à venir**
 
-Des événements sont prévus à la Tanière au coin du jeu, pour le mois des fiertés et plein d'autres choses.
+Des événements sont prévus à la Tanière au coin du jeu, pour le forum des assos et pleins d'autres choses dès la rentrée !
 
 
 **Pour tous nos événements, nous essayons d’être le plus inclusif possible dans nos moyens. Si vous avez des besoins spécifiques liés à une situation de handicap, nous vous invitons à nous contacter [ici](https://felides-jdr.fr/contact.html) en amont pour que nous puissions discuter des aménagements possibles.** 
