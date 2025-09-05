@@ -11,7 +11,7 @@ Les FÉLI’dés sont une association ([à propos](https://felides-jdr.fr/a%20pr
 
 <a href="https://linktr.ee/feli.des" class="bouton">Toutes nos ressources et réseaux ici !</a>
 
-#Bienvenue pour une troisième saison des FELI'dés !
+# Bienvenue pour une troisième saison des FELI'dés !
 Après la période estivale, nous reprenons nos activités dont vous pouvez retrouver toutes les dates ci-dessous. D'autres événements viendront selon l'année ;)
 
 ## Nos Dé-Dimanches
