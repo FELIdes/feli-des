@@ -11,7 +11,8 @@ Les FÉLI’dés sont une association ([à propos](https://felides-jdr.fr/a%20pr
 
 <a href="https://linktr.ee/feli.des" class="bouton">Toutes nos ressources et réseaux ici !</a>
 
-## Période estivale. Nos activités régulières sont en pause et reprennent dès septembre ! Nous proposerons des activités ponctuelles durant l'été. Vous pouvez nous suivre ici ou sur nos réseaux grâce au bouton ci-dessus. Merci de votre présence chez les FELI'dés si vous êtes venus durant cette deuxième saison et à bientôt ! Et si vous ne connaissez pas encore l'asso, nous avons hâte de faire votre connaissance.
+#Bienvenue pour une troisième saison des FELI'dés !
+Après la période estivale, nous reprenons nos activités dont vous pouvez retrouver toutes les dates ci-dessous. D'autres événements viendront selon l'année ;)
 
 ## Nos Dé-Dimanches
 
