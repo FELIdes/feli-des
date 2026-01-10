@@ -14,6 +14,8 @@ Les FÉLI’dés sont une association ([à propos](https://felides-jdr.fr/a%20pr
 # Bienvenue pour une troisième saison des FELI'dés !
 Après la période estivale, nous reprenons nos activités dont vous pouvez retrouver toutes les dates ci-dessous. D'autres événements viendront selon l'année ;)
 
+**Bonne année 2026 à vous !**
+
 ## Nos Dé-Dimanches
 
 Venez faire une partie sur l’après-midi (one shots uniquement), découvrir le jeu de rôle ou de nouveaux univers, ou proposez vous-même une partie ! 
@@ -21,25 +23,19 @@ Un dimanche sur deux, en semaine paire, de 14h à 20h à la MJC Parmentier ([Nou
 
 **Nos prochains Dé-Dimanches :**
 
-- Dimanche 21 septembre
-- Dimanche 5 octobre
-- Dimanche 19 octobre
-- Dimanche 2 novembre
-- Dimanche 16 novembre
-- Dimanche 30 novembre
-- Dimanche 14 décembre
-- Dimanche 11 janvier
+- Dimanche 16 novembre : **Joueureuses pacifiques**
+- Dimanche 11 janvier : **Thème Steampunk**
 - Dimanche 25 janvier
 - Dimanche 8 février
 - Dimanche 22 février
-- Dimanche 8 mars
+- Dimanche 8 mars : **Thème JdR sur la journée internationale des droits des femmes**
 - Dimanche 22 mars
 - Dimanche 5 avril
 - Dimanche 19 avril
-- Dimanche 3 mai
+- Dimanche 3 mai : **Thème policier : 50 ans de la mort d'Agatha Christie**
 - Dimanche 17 mai
 - Dimanche 31 mai
-- Dimanche 14 juin
+- Dimanche 14 juin : **Thème JdR sur le mois des fiertés**
 - Dimanche 28 juin
 
 ## Nos Ateliers JDR
@@ -49,41 +45,32 @@ Un mercredi par mois, de 19h à 22h, à la MJC Parmentier (3 rue Parmentier, Gre
 
 Nos prochains ateliers :
 
-- **Mercredi 17 septembre : Jouons avec les enfants et les adolescents**
 
-Comment intéresser les enfants et ados au JdR ? Quels jeux sont adaptés à quel âge ? Comment adapter les règles de votre JdR préféré pour jouer avec des enfants ?
+- **Mercredi 21 janvier : Thème à définir**
 
-![Affiche de communication de l'atelier du mercredi 17 septembre, jouer avec les enfants et adolescents]({% link images/Comm_Ateliers_A4_Jouer_avec_enfants.jpg %})
+- **Mercredi 4 février : Improviser à sa table**
 
-- **Mercredi 15 octobre : L'inclusivité dans le jeu de rôle**
+- **Mercredi 4 mars : Faire du narratif. Oui, mais comment ?**
 
-*Description à venir*
+- **Mercredi 29 avril : Rendre les choses personnelles : impliquer les joueureuses**
 
-- **Mercredi 12 novembre : Thème à définir**
+- **Mercredi 13 mai : Aborder les sujets sensibles autour de la table**
 
-- **Mercredi 17 décembre : Thème à définir**
-
-- **Mercredi 14 janvier : Thème à définir**
-
-- **Mercredi 4 février : Thème à définir**
-
-- **Mercredi 11 mars : Thème à définir**
-
-- **Mercredi 22 avril : Thème à définir**
-
-- **Mercredi 13 mai : Thème à définir**
-
-- **Mercredi 17 juin : Thème à définir**
+- **Mercredi 10 juin : Mois des fiertés**
 
 **N’hésitez pas à nous suivre sur [Discord](https://discord.gg/dCk7svSNwb), [Insta](https://www.instagram.com/felides_grenoble/) ou [Facebook ](https://www.facebook.com/felides.grenoble) pour connaître les tables proposées en Dé-Dimanche et les thèmes des ateliers !**
 
 ## Autres événements :
 
-- **Forum des associations de Grenoble : Samedi 6 septembre**
+- **Assemblée Générale Ordinaire de l'association : samedi 28 février 2026.**
+A la MVAC : 6 rue Berthe de Boissieux, 38000, GRENOBLE.
+Tout le monde peut participer au débat de l'association. Seule les membres auront pouvoir décisionnaire via le vote.
+Un ordre de jour paraîtra à partir du 28 janvier.
 
-Nous serons présent au forum des associations de Grenoble pour promouvoir le jeu de rôle pour toustes et faire connaître l'association. Si vous voulez nous découvrir c'est le moment idéal ou juste nous dire bonjour, ça nous fera toujours plaisir :D
+- **Place Aux Jeux 2026**
+Les FELI'dés seront très certainement présent pour une nouvelle année pour proposer des tables à tous les publics !
 
-![Affiche du forum des associations]({% link images/forum des assos.jpg %})
+
 
 Des événements sont prévus à la Tanière au coin du jeu à partir du mois de octobre.
 D'autres événements ponctuels toujours autour du jeu de rôle viendront émailler le calendrier dans les prochains temps !
