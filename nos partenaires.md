@@ -21,6 +21,6 @@ Ce bar à jeux (8 rue Ampère) réalise avec nous un après-midi JDR tous les de
 
 [Leur site](https://www.grenoble.fr/308-grenoble-associations.htm)
 
-La Maison des Associations de Grenoble, située au 6, rue Berthe de Boissieux, nous met à disposition des salles de réunions pour nos Conseil d’administration et Assemblées Générales. L’association y est domiciliée et nous y avons notre boîte aux lettres. 
+La Maison de la Vie Associative (MVAC) de Grenoble, située au 6 rue Berthe de Boissieux, nous met à disposition des salles de réunions pour nos Conseil d’administration et Assemblées Générales. L’association y est domiciliée et nous y avons notre boîte aux lettres. 
 
 ![Logo de la MDA]({% link images/Logo MDA.png %}) 
