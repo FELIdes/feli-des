@@ -46,7 +46,8 @@ Un mercredi par mois, de 19h à 22h, à la MJC Parmentier (3 rue Parmentier, Gre
 Nos prochains ateliers :
 
 
-- **Mercredi 21 janvier : Thème à définir**
+- **Mercredi 21 janvier : Jouer le quotidien, le "banal", l'intime en JDR**
+![Affiche de l'atelier avec la description de ce qui sera proposé]({% link images/Comm_Jouer_le_quotidien_A4.png %})
 
 - **Mercredi 4 février : Improviser à sa table**
 
@@ -62,7 +63,7 @@ Nos prochains ateliers :
 
 ## Autres événements :
 
-- **Assemblée Générale Ordinaire de l'association : samedi 28 février 2026.**
+- **Assemblée Générale Ordinaire de l'association : samedi 28 février 2026 de 14h à 18h.**
 A la MVAC : 6 rue Berthe de Boissieux, 38000, GRENOBLE.
 Tout le monde peut participer au débat de l'association. Seule les membres auront pouvoir décisionnaire via le vote.
 Un ordre de jour paraîtra à partir du 28 janvier.
