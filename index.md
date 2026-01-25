@@ -25,7 +25,6 @@ Un dimanche sur deux, en semaine paire, de 14h à 20h à la MJC Parmentier ([Nou
 
 - Dimanche 16 novembre : **Joueureuses pacifiques**
 - Dimanche 11 janvier : **Thème Steampunk**
-- Dimanche 25 janvier
 - Dimanche 8 février
 - Dimanche 22 février
 - Dimanche 8 mars : **Thème JdR sur la journée internationale des droits des femmes**
@@ -46,10 +45,8 @@ Un mercredi par mois, de 19h à 22h, à la MJC Parmentier (3 rue Parmentier, Gre
 Nos prochains ateliers :
 
 
-- **Mercredi 21 janvier : Jouer le quotidien, le "banal", l'intime en JDR**
-![Affiche de l'atelier avec la description de ce qui sera proposé]({% link images/Comm_Jouer_le_quotidien_A4.png %})
-
 - **Mercredi 4 février : Improviser à sa table**
+![Affiche de l'atelier sur l'improvisation en JdR]({% link images/Comm_Impro_JDR.jpg %})
 
 - **Mercredi 4 mars : Faire du narratif. Oui, mais comment ?**
 
