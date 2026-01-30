@@ -48,7 +48,7 @@ Nos prochains ateliers :
 - **Mercredi 4 février : Improviser à sa table**
 ![Affiche de l'atelier sur l'improvisation en JdR]({% link images/Comm_Impro_JDR.jpg %})
 
-- **Mercredi 4 mars : Faire du narratif. Oui, mais comment ?**
+- **Mercredi 4 mars : Construire son univers**
 
 - **Mercredi 29 avril : Rendre les choses personnelles : impliquer les joueureuses**
 
