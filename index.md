@@ -63,7 +63,23 @@ Nos prochains ateliers :
 - **Assemblée Générale Ordinaire de l'association : samedi 28 février 2026 de 14h à 18h.**
 A la MVAC : 6 rue Berthe de Boissieux, 38000, GRENOBLE.
 Tout le monde peut participer au débat de l'association. Seule les membres auront pouvoir décisionnaire via le vote.
-Un ordre de jour paraîtra à partir du 28 janvier.
+Voici l'ordre du jour temporaire. L'ODJ définitif sera validé le 14 février.
+- Cadre de l'AG :
+*En introduction, des codes à respecter afin de permettre à toustes de s'exprimer dans les meilleures conditions.*
+- Présentation et vote du Bilan Moral par la présidente.
+- Présentation et vote du Bilan Financier par le trésorier.
+*Préparez-vous à danser !
+- Modification des statuts :
+*Article 17 : ajout de l'élection de "vices"*
+*Article 14 : modification du quorum nécessaire pour voter les changements de statut*
+- Adoption d'un règlement intérieur :
+*Un Règlement intérieur sera soumis puis approuvé ou non par l'AG*
+- Information sur l'avancée des commissions de membres.
+- Retour des membres concernant le fonctionnement de l'association et du CA.
+- Élection du CA :
+*Rappel composition du CA et des postes ouverts aux votes.*
+*Élection du CA et professions de foi.*
+
 
 - **Place Aux Jeux 2026**
 Les FELI'dés seront très certainement présent pour une nouvelle année pour proposer des tables à tous les publics !
