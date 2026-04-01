@@ -11,21 +11,21 @@ Si vous êtes présent sur une des photographies ici et que vous souhaitez chang
 
 <p class="encart">Les Dé-Dimanche</p>
 
-![Image de personnes assises autour d'une table à la MJC Parmentier pour une partie de jeu de rôle chez les FELI'dés]({% link images/DD mod 1.jpg %})
+![Image de personnes assises autour d'une table à la MJC Parmentier pour une partie de jeu de rôle chez les FELI'dés]({% link images/Cervide 1.jpg %})
 
-![Image de personnes assises autour d'une table à la MJC Parmentier pour une partie de jeu de rôle chez les FELI'dés]({% link images/DD mod 2.jpg %})
+![Image de personnes assises autour d'une table à la MJC Parmentier pour une partie de jeu de rôle chez les FELI'dés]({% link images/Cervide 2.jpg %})
 
 
 <p class="encart">Forum des assos de Grenoble, septembre 2024</p>
 
-![Stand des FELI'dés au Forum des assos 2024 avec le président Romain]({% link images/Forum des assos.jpg %})
+![Stand des FELI'dés au Forum des assos 2024 avec le président Romain]({% link images/Cervide 3.jpg %})
 
 
 <p class="encart">Place aux jeux, mars 2025</p>
 
-![Image du stand FELi'dés avec le roll-up à PAJ 2025]({% link images/PAJ 2025 1.jpg %})
+![Image du stand FELi'dés avec le roll-up à PAJ 2025]({% link images/Cervide 4.jpg %})
 
-![Stand des FELI'dés à PAJ 2025 avec des bénévoles de l'association]({% link images/PAJ 2025 2.jpg %})
+![Stand des FELI'dés à PAJ 2025 avec des bénévoles de l'association]({% link images/Cervide 5.jpg %})
 
 
 <p class="encart">Une mystérieuse chorégraphie musicale à un DD...</p>
