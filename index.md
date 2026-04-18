@@ -43,6 +43,7 @@ Nos prochains ateliers :
 
 
 - **Mercredi 29 avril : Rendre les choses personnelles : impliquer les joueureuses**
+![Affiche de l'atelier pour rendre les choses personnelles : impliquer les joueureuses]({% link images/Comm personnel Instagram.jpg %})
 
 - **Mercredi 13 mai : Aborder les sujets sensibles autour de la table**
 
