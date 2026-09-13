@@ -130,16 +130,14 @@ Dans le cadre de cette charte, des missions de promotions de la pratique des jeu
 - • Prendre en compte les retours des membres et participant(e)s non-membres pour l’amélioration du confort et du plaisir ludique de toustes.
 - • Rendre identifiables tous membres du CA ou responsables pouvant être sollicités dans le cadre de conflits ou de non-respect de la charte.
 N’oubliez pas que l’important dans cette charte est son intention. Merci de ne pas la détourner et rappelez-vous que le but est de toustes jouer ensemble. Nous vous souhaitons une excellente partie avec nous !
-Contact : felides38@gmail.com
+Contact : <a href="mailto:felides38@gmail.com">felides38@gmail.com</a>
 
+<p class="encart">FÉLI’dés (Fantastique Équipée Ludique Inclusive avec des dés)<
 
-<p class="encart">Statuts de l'association</p>
-
-« FÉLI’dés (Fantastique Équipée Ludique Inclusive avec des dés) »
 
 ### ARTICLE PREMIER - NOM
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre « FÉLI’dés (Fantastique Équipée Ludique Inclusive avec des dés) ».
+Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1 [er] juillet 1901 et le décret du 16 août 1901, ayant pour titre « FÉLI’dés (Fantastique Équipée Ludique Inclusive avec des dés) ».
 
 ### ARTICLE 2 - OBJET
 
@@ -153,38 +151,46 @@ Cette association a pour valeurs de partager le jeu de rôle et les cultures de 
 
 L’association a pour but de proposer ces activités :
 
-- Des parties de jeu de rôle pour toutes les joueuses et tous les joueurs, expérimentés ou débutants, sur un créneau régulier ;
-- Des ateliers autour de la pratique du jeu de rôle ;
-- Tout évènement à destination du public promouvant le jeu de rôle, les cultures de l’imaginaire et les valeurs d’inclusivité dans le jeu.
+-​ Des parties de jeu de rôle pour toutes les joueuses et tous les joueurs, expérimentés ou débutants, sur un créneau régulier ;
+-​ Des ateliers autour de la pratique du jeu de rôle ;
+-​ Tout événement à destination du public promouvant le jeu de rôle, les cultures de l’imaginaire et les valeurs d’inclusivité dans le jeu.
 
 ### ARTICLE 5 - SIÈGE SOCIAL
-Le siège social est fixé au 6 rue Berthe de Boisseux, 38000, Grenoble, à la Maison Des Associations. Le siège social pourra être transféré par simple décision du Conseil d’Administration.
+
+Le siège social est fixé au 6, rue Berthe de Boissieux, 38000 Grenoble, à la Maison de la Vie Associative et Citoyenne. Le siège social pourra être transféré par simple décision du Conseil d’Administration.
 
 ### ARTICLE 6 - DURÉE
+
 La durée de l’association est illimitée.
 
 ### ARTICLE 7 - COMPOSITION
 
 L’association se compose de :
-- a) Membres d’honneur
-- b) Membres ou adhérents
+
+a)​ Membres d’honneur
+b)​ Membres ou adhérents
 
 ### ARTICLE 8 - ADMISSION
 
-L’admission est ouverte à toute personne morale ou physique, sous réserve d’avoir pris connaissance des statuts et de la charte de l’association et de les avoir acceptés, par le formulaire d’adhésion rempli et signé. Pour faire partie de l’association, les personnes doivent être agréées par au moins deux personnes du Conseil d’Administration (CA), qui doivent signer le bulletin d’adhésion durant le CA suivant la demande d’adhésion. Chaque membre du CA n’a pas à justifier d’approuver ou non les demandes d’adhérents. L’adhérent doit également régler sa cotisation, qui lui sera remboursée si l’adhésion n’est pas approuvée au prochain CA.
+L’admission est ouverte à toute personne morale ou physique, sous réserve d’avoir pris connaissance des statuts et de la charte de l’association et de les avoir acceptés, par le formulaire d’adhésion rempli et signé. 
+Pour faire partie de l’association, les personnes doivent être agréées par au moins deux personnes du Conseil d’Administration (CA), qui doivent signer le bulletin d’adhésion durant le CA suivant la demande d’adhésion. 
+Chaque membre du CA n’a pas à justifier d’approuver ou non les demandes d’adhérents. 
+L’adhérent doit également régler sa cotisation, qui lui sera remboursée si l’adhésion n’est pas approuvée au prochain CA.
+
 
 ### ARTICLE 9 - MEMBRES – COTISATIONS
 
 Sont adhérents ceux qui se conforment à l’ARTICLE 8 et ont pris l’engagement de verser la cotisation annuelle d’une somme de :
 
-- ● 5 € pour la cotisation solidaire (sans qu’une justification ne puisse être demandée par le CA, sur simple demande de la personne souhaitant adhérer) ;
-- ● 10 € pour la cotisation ordinaire (ouverte à tous) ;
-- ● 20 € pour la cotisation de soutien (ouverte à tous).
+  - ​ 5 € pour la cotisation solidaire (sans qu’une justification ne puisse être demandée par le CA, sur simple demande de la personne souhaitant adhérer) ;
+  - ​ 10 € pour la cotisation ordinaire (ouverte à tous) ;
+  - ​ 20 € pour la cotisation de soutien (ouverte à tous).
 
 L’adhésion, peu importe le montant de la cotisation, donne le statut de membre.
-La réadhésion est automatique tant que la personne est à jour de cotisations. (voir article 11).
-La première cotisation est due le jour de l’adhésion et toutes les cotisations suivantes sont dues au 1er janvier. La cotisation doit être payée dans son intégralité.
-Le statut de membre octroie un accès privilégié aux actualités de l’association et un droit de proposer des idées d’évènement et de les animer. Le Conseil d’Administration jugera de leur faisabilité et réalisation. Il permet également de voter aux Assemblées Générales Ordinaires et Extraordinaires, et de rejoindre le Conseil d’Administration. Les membres peuvent s’investir dans l’association et être bénévoles lors des évènements.
+L’adhésion se fait pour une année civile, du 1 [er] janvier au 31 décembre de l’année où a été approuvée l’adhésion. La cotisation doit être payée complètement, peu importe la date où a lieu l’adhésion.
+Le statut de membre octroie un accès privilégié aux actualités de l’association et un droit de proposer des idées d’évènement et de les animer. 
+Le Conseil d’Administration jugera de leur faisabilité et réalisation. 
+Il permet également de voter aux Assemblées Générales Ordinaires et Extraordinaires, et de rejoindre le Conseil d’Administration. Les membres peuvent s’investir dans l’association et être bénévoles lors des évènements.
 Sont membres d’honneur ceux qui ont rendu des services exceptionnels signalés à l’association et ont été désignés par le Conseil d’Administration lors d’une Assemblée générale ; ils sont dispensés de cotisations pour l’année à venir.
 
 ### ARTICLE 10 - PERSONNES MINEURES
@@ -200,103 +206,173 @@ La qualité de membre se perd par :
 
 - a) La démission
 - b) Le décès
-- c) Décision du CA en cas de retard sur la cotisation annuelle au-delà du 15 février
-- d) La radiation prononcée par le Conseil d’Administration pour motif grave, l’intéressé ayant été invité (par lettre recommandée) dans un délai de 2 semaines, à fournir des explications devant le Conseil d’Administration et/ou par écrit. Le CA déterminera ensuite s’il décide d’une radiation à un vote à bulletin secret à la majorité absolue des membres du CA, présents ou non lors du CA. Les membres du CA absents pourront fournir une procuration à un membre du CA présent.
+- c) Le non-renouvellement de la cotisation annuelle
+- d) La radiation prononcée par le Conseil d’Administration pour motif grave, l’intéressé ayant été invité (par lettre recommandée) dans un délai de 2 semaines, à fournir des explications devant le Conseil d’Administration et/ou par écrit. Le CA déterminera ensuite s’il décide d’une radiation à un vote à la majorité et à bulletin secret.
 
-Un manquement à la charte de l’association peut être considéré par le Conseil d’Administration, à un vote à la majorité, comme un motif grave menant à la radiation. Sont également considérés comme motif grave toute activité mettant en danger l’association, ses membres ou la tenue des activités de l’association. Tout membre peut demander à ce que le CA examine la question de la radiation d’un membre, sans que son nom ne soit transmis en dehors du CA, en notifiant par écrit et de manière motivée le CA.
-En cas de radiation, la cotisation n’est pas remboursée au membre radié. Un membre radié peut être, ou non, mis sur la liste de personnes bannies, dans un second vote du CA après la décision de radiation.
 
-### ARTICLE 12 - Liste des personnes bannies (liste des personnes considérées comme étant à risque)
-Toute personne physique et morale peut être inscrite sur la liste de personnes bannies de l’association. (= liste de personnes considérées comme étant à risque selon les termes de la CNIL.)
+Un manquement à la charte de l’association peut être considéré par le Conseil d’Administration, à un vote à la majorité, comme un motif grave menant à la radiation. 
+Sont également considérés comme motif grave toute activité mettant en danger l’association, ses membres ou la tenue des activités de l’association.
+Tout membre peut demander à ce que le CA examine la question de la radiation d’un membre, sans que son nom ne soit transmis en dehors du CA, en notifiant par écrit et de manière motivée le CA.
+
+En cas de radiation, la cotisation n’est pas remboursée au membre radié. 
+Un membre radié peut être, ou non, mis sur la liste noire, dans un second vote du CA après la décision de radiation.
+
+
+### ARTICLE 12 - LISTE NOIRE
+
+Toute personne physique et morale peut être inscrite sur la liste noire de l’association.
+
+
 La procédure commence par une demande d’un membre de l’association, puis la personne visée pourra présenter sa défense, puis le CA procédera lors d’un Conseil d’Administration à un vote à la majorité absolue et à bulletin secret.
-Tout membre de l’association peut demander à ce que le CA examine la question de la mise sur liste de personnes bannies d’une personne ayant été présent à un événement ou sur les moyens de communication de l’association, sans que son nom ne soit transmis en dehors du CA, en notifiant par écrit et de manière motivée le CA. La personne visée par la procédure devra être invitée à présenter sa défense avant le vote. Si elle est membre, la question de sa radiation devra d’abord être posée, il ne peut être inscrit sur la liste de personnes bannies s’il n’est pas radié auparavant.
-Si c’est la décision du CA, la personne disposera d’un droit d’oubli au bout de cinq ans à partir du moment où elle a été inscrite sur la liste. Ou jusqu’à un vote contraire du CA. Le droit d’adhérer à l’association ou de participer à un évènement géré par l’association est rendu impossible tant que la personne est sur la liste. Cela peut concerner une personne ayant été membre ou non de l’association. Toute personne sur la liste de personnes bannies pourra faire appel de cette décision une fois par an auprès du CA.
-Une liste de personnes bannies ne peut être secrète et les destinataires du fichier doivent être informés de l’existence du droit d’opposition.
-Afin de ne pas compromettre l’existence morale des destinataires du fichier en-dehors de l’association, les seules personnes au courant de la tenue de cette liste sont les membres du CA ainsi que les destinataires de ce fichier.
+
+Tout membre de l’association peut demander à ce que le CA examine la question de la mise sur liste noire d’une personne ayant été présent à un évènement ou sur les moyens de communication de l’association, sans que son nom ne soit transmis en dehors du CA, en notifiant par écrit et de manière motivée le CA. 
+La personne visée par la procédure devra être invitée à présenter sa défense avant le vote. Si elle est membre, la question de sa radiation devra d’abord être posée, il ne peut être inscrit sur la liste noire s’il n’est pas radié auparavant.
+
+Si c’est la décision du CA, la personne perdra à vie ou jusqu’à un vote contraire du CA le droit d’adhérer à l’association ou de participer à un évènement géré par l’association.
+Cela peut concerner une personne ayant été membre ou non de l’association. 
+Toute personne sur la liste noire pourra faire appel de cette décision une fois par an auprès du CA.
+
 
 ### ARTICLE 13 - RESSOURCES
+
 Les ressources de l’association comprennent :
 
-- a) Le montant des cotisations ;
-- b) Les subventions de l’État, des départements et des communes ;
-- c) Toutes les ressources autorisées par les lois et règlements en vigueur.
+- a)​ Le montant des cotisations ;
+- b)​ Les subventions de l’État, des départements et des communes ;
+- c)​ Toutes les ressources autorisées par les lois et règlements en vigueur.
 
 ### ARTICLE 14 - ASSEMBLÉE GÉNÉRALE ORDINAIRE
 
-L’Assemblée Générale Ordinaire comprend tous les membres de l’association à quelque titre qu’ils soient. Tout adhérent ne pouvant être présent pourra donner sa procuration à un autre adhérent, qui ne pourra pas être membre du Bureau. Il devra partager sa procuration par écrit au CA avant l’Assemblée Générale (par mail, SMS, sur un support papier, etc.) Un adhérent ne pourra pas recevoir plus de deux procurations.
-Elle se réunit chaque année durant le 1er trimestre (janvier - mars).
-L’ordre du jour est annoncé au moins un mois avant l’Assemblée. Les membres ont deux semaines pour amener des points qui seront ajoutés à l’ordre du jour.
-Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués par les soins du Conseil d’Administration. L’ordre du jour figure sur les convocations.
-Le président, assisté des membres du conseil, préside l’assemblée et expose la situation morale et l’activité de l’association, dans un bilan moral soumis à l’approbation de l’assemblée, dans un vote. En cas de rejet du bilan moral (majorité de vote contre), le président ne pourra pas se représenter au Bureau à la suite de cette Assemblée et jusqu’à la prochaine AGO.
-Le trésorier rend compte de sa gestion et soumet les comptes annuels (bilan, compte de résultat et annexe) à l’approbation de l’assemblée. En cas de rejet du bilan financier (majorité de vote contre), le trésorier ne pourra pas se représenter au Bureau à la suite de cette Assemblée et jusqu’à la prochaine AGO.
+
+L’Assemblée Générale Ordinaire comprend tous les membres de l’association à quelque titre qu’ils soient. 
+Tout adhérent ne pouvant être présent pourra donner sa procuration à un autre adhérent, qui ne pourra pas être membre du Bureau. 
+Il devra partager sa procuration par écrit au CA avant l’Assemblée Générale, par mail, SMS ou sur un support papier. 
+Un adhérent ne pourra pas recevoir plus de deux procurations.
+
+Elle se réunit chaque année durant le 1 [er] trimestre (janvier - mars).
+
+
+Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués par les soins du Conseil d’Administration. 
+L’ordre du jour figure sur les convocations.
+
+Le président, assisté des membres du conseil, préside l’assemblée et expose la situation morale et l’activité de l’association, dans un bilan moral à l’approbation de l’assemblée, dans un vote à titre indicatif.
+Le trésorier rend compte de sa gestion et soumet les comptes annuels (bilan, compte de résultat et annexe) à l’approbation de l’assemblée.
 Les décisions sont prises à la majorité des voix des membres présents ou représentés, dans un vote à bulletin secret.
 Il est procédé, après épuisement de l’ordre du jour, au renouvellement des membres sortants du conseil.
 Toutes les délibérations sont prises à bulletin secret, y compris l’élection des membres du conseil.
 Les décisions des assemblées générales s’imposent à tous les membres, y compris absents ou représentés.
-Tout changement des statuts de l’association devra être réalisé lors d’une Assemblée Générale Ordinaire ou extraordinaire ayant un quorum d’au moins les deux tiers des membres présents ou représentés.
+Un quorum de 1/3 des membres est nécessaire uniquement pour les changements de statut. Ce quorum est constitué des membres présents physiquement ou par procuration.
+
 
 ### ARTICLE 15 - ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE
 
-Si besoin est, ou sur la demande d’un quart des membres inscrits qui préciseront un ordre du jour, le président doit convoquer une Assemblée Générale Extraordinaire, suivant les modalités prévues aux présents statuts, notamment pour modification des statuts, révocation et élection du Conseil d’Administration ou la dissolution, ou pour des actes portant sur des immeubles.
+Si besoin est, ou sur la demande d’un quart des membres inscrits, le président peut convoquer une Assemblée Générale Extraordinaire, suivant les modalités prévues aux présents statuts, notamment pour modification des statuts ou la dissolution, ou pour des actes portant sur des immeubles.
+
 Les modalités de convocation sont les mêmes que pour l’Assemblée Générale Ordinaire.
 Les délibérations sont votées à bulletin secret, à la majorité des membres présents ou représentés.
 
+
 ### ARTICLE 16 - CONSEIL D’ADMINISTRATION
 
-L’association est dirigée par un Conseil d’Administration composé de 4 à 8 membres, élus pour 2 années par l’Assemblée Générale. Les membres sont rééligibles. Leur mandat prend fin lors de la seconde Assemblée Générale Ordinaire après celle de leur élection, ils peuvent alors être remplacés ou se représenter. Chaque candidat doit présenter aux membres présents une profession de foi orale ou écrite avant le vote.
+L’association est dirigée par un Conseil d’Administration composé de 4 à 8 membres, élus pour 2 années par l’Assemblée Générale. Les membres sont rééligibles.
+Leur mandat prend fin au début de la seconde Assemblée Générale après celle de leur élection, ils peuvent alors être remplacés ou se représenter.
+Chaque candidat doit présenter aux membres présents une profession de foi orale ou écrite avant le vote.
+
 Les mandats des membres du CA ne sont pas nominatifs, mais numérotés de 1 à 8, l’attribution des mandats se fait au sein du CA par accord mutuel, puis tirage au sort.
 Les mandats pairs (2, 4, 6, 8) se termineront les années paires, et devront donc être renouvelés les années paires, tandis que les mandats impairs (1, 3, 5, 7) se termineront les années impaires.
 Chaque année, à l’AG, après la démission de tous les membres ayant un mandat se terminant selon la règle ci-dessus, sont élus jusqu’à autant de nouveaux membres que le permet le maximum de 8 personnes totales au CA.
-Les membres procèdent à bulletin secret pour élire individuellement chaque candidat qu’ils souhaitent voir entrer dans le Conseil d’Administration. Tous ceux qui ont la majorité absolue des voix des membres présents ou représentés sont élus au Conseil d’Administration.
-S’il y a plus de candidats remplissant ces critères que la jauge de 8 incluant les membres non sortants, les personnes ayant le plus de suffrages seront élues, jusqu’à atteindre le nombre total
-de 8 membres du CA. En cas d’égalité, un tirage au sort tranchera entre les candidats ayant autant de suffrages.
-Les vacances ne sont pas pourvues par le CA. Il est procédé au remplacement des démissionnaires par la prochaine Assemblée Générale. S’il n’y a pas assez de membres restants au CA pour assurer les besoins de l’association, une AGE peut être organisée pour remplacer les membres manquants.
-Le Conseil d’Administration se réunit au moins une fois tous les deux mois, sur convocation du président, ou à la demande du quart de ses membres. Les réunions du conseil peuvent être plus fréquentes. Elles peuvent être publiques sur la demande d’un adhérent. La présence du président et d’au moins la moitié des membres du CA +1 est nécessaire pour tenir un CA :
 
-- ● Un CA de 4 à 5 membres doit être tenu par au moins 3 membres
-- ● Un CA de 6 à 7 membres doit être tenu par au moins 4 membres
-- ● Un CA de 8 membres doit être tenu par au moins 5 membres
+Les membres procèdent à bulletin secret pour élire individuellement chaque candidat qu’ils souhaitent voir entrer dans le Conseil d’Administration. 
+Tous ceux qui ont la majorité absolue des voix des membres présents ou représentés sont élus au Conseil d’Administration.
+
+S’il y a plus de candidats remplissant ces critères que la jauge de 8 incluant les membres non sortants, les personnes ayant le plus de suffrages seront élues, jusqu’à atteindre le nombre total de 8 membres du CA. 
+En cas d’égalité, un tirage au sort tranchera entre les candidats ayant autant de suffrages.
+
+Les vacances ne sont pas pourvues par le CA. 
+Il est procédé au remplacement des démissionnaires par la prochaine Assemblée Générale.
+S’il n’y a pas assez de membres restants au CA pour assurer les besoins de l’association, une AGE peut être organisée pour remplacer les membres manquants.
+
+Le Conseil d’Administration se réunit au moins une fois tous les deux mois, sur convocation du président, ou à la demande du quart de ses membres. 
+Les réunions du conseil peuvent être plus fréquentes. 
+Elles peuvent être publiques sur la demande d’un adhérent. 
+La présence du président et d’au moins la moitié des membres du CA est nécessaire pour tenir un CA.
 
 Les décisions sont prises à la majorité des voix ; en cas de partage, la voix du président est prépondérante.
-Le Conseil d’Administration a un droit de regard sur tous les documents administratifs et financiers concernant l’association.
-Toutes les sanctions prévues pour les adhérents peuvent être prises contre les membres du CA et du Bureau, par les mêmes procédures. En cas de radiation, la personne perdra également son mandat. La personne visée pourra présenter ses arguments, mais ne sera pas présente lors des échanges puis du vote portant sur une sanction envisagée contre elle.
+
+Toutes les sanctions prévues pour les adhérents peuvent être prises contre les membres du CA et du Bureau, par les mêmes procédures. 
+En cas de radiation, la personne perdra également son mandat. 
+La personne visée ne pourra pas prendre part au vote portant sur une sanction envisagée contre elle.
+
 Tout membre du conseil qui, sans excuse, n’aura pas assisté à trois réunions consécutives sera considéré comme démissionnaire.
 
 ### ARTICLE 17 - BUREAU
 
 Le Conseil d’Administration élit parmi ses membres, à bulletin secret, avec tirage au sort en cas d’égalité, un bureau composé de :
 
-- 1) Une présidente ou un président : il porte la responsabilité morale et civile de l’association, a pour rôle de gérer la représentation de l’association, de présider et animer les CA et a les pouvoirs sur le compte bancaire. Il tranche en cas d’égalité dans les votes du CA. Il a un droit de veto sur les budgets.
-- 2) Une trésorière ou un trésorier : il gère les comptes de l’association, l’assurance et les adhésions. Il a une délégation de responsabilité financière et des moyens de paiement de la part du président. Il a un droit de veto sur les budgets.
-- 3) Si besoin, une ou un secrétaire : ce rôle est facultatif. Il rédige et transmet les comptes-rendus de CA et fait le lien entre le CA et les adhérents.
-- 4) Si besoin, une ou un paladin chat-oyant : ce rôle est facultatif. Il est le point de contact en cas de problème relationnel ou d’incidents entre les personnes, dans le cadre des évènements de l’association. Il gère (et à ce titre, doit se tenir informé sur) les questions d’inclusivité et de sécurité émotionnelle dans le cadre du jeu de rôle et des évènements et communications de l’association.
+1.​ Une présidente ou un président : il porte la responsabilité morale et civile de l’association, a pour rôle de gérer la représentation de l’association, de présider et animer les CA et a les pouvoirs sur le compte bancaire. Il tranche en cas d’égalité dans les votes du CA. Il a un droit de veto sur les budgets.
+2.​ Une trésorière ou un trésorier : il gère les comptes de l’association, l’assurance et les adhésions. Il a une délégation de responsabilité financière et des moyens de paiement de la part du président. Il a un droit de veto sur les budgets.
+3.​ Si besoin, une ou un secrétaire : ce rôle est facultatif. Il rédige et transmet les comptes-rendus de CA et fait le lien entre le CA et les adhérents.
+4.​ Si besoin, une ou un paladin chat-oyant : ce rôle est facultatif. Il est le point de contact en cas de problème relationnel ou d’incidents entre les personnes, dans le cadre des évènements de l’association. Il gère (et à ce titre, doit se tenir informé sur) les questions d’inclusivité et de sécurité émotionnelle dans le cadre du jeu de rôle et des évènements et communications de l’association.
 
-Aucune de ces fonctions n’est cumulable. Toutes ses fonctions ont un mandat d’un an, se terminant à l’Assemblée Générale Ordinaire. En cas de démission, radiation ou décès d’un membre du Bureau, le conseil pourvoira au remplacement par un vote à bulletin secret parmi les membres du conseil, jusqu’à la prochaine AG.
+Seul les rôles de Président, Présidente, Trésorier ou Trésorière sont obligatoires.
+
+Aucune de ces fonctions n’est cumulable. Toutes ses fonctions ont un mandat d’un an, se terminant à l’Assemblée Générale Ordinaire.
+En cas de démission, radiation ou décès d’un membre du Bureau, le conseil pourvoira au remplacement par un vote à bulletin secret parmi les membres du conseil, jusqu’à la prochaine AG.
+
+
+### ARTICLE 17.1 VICE-PRÉSIDENT, VICE-TRÉSORIER, VICE-SECRÉTAIRE ET ÉCUYER CHATOYANT
+
+Lors de l'élection du bureau ou durant son mandat, l’association peut se doter, en plus du Président, du Trésorier, du Secrétaire et du Paladin Chatoyant, d’un Vice-Président, Vice-Trésorier, Vice-Secrétaire et Ecuyer Chatoyant. 
+Ils et elles sont élus dans les mêmes conditions et pour la même durée que les membres du bureau qu’ils assistent.
+
+Les Vice-Présidents, Vice-Trésoriers, Vice-Secrétaires et Ecuyers Chatoyant ne constituent pas des fonctions honorifiques ou symboliques.
+Ils et elles participent pleinement à la gestion et au fonctionnement de l’association et disposent des mêmes droits, devoirs et responsabilités que le Président, le Trésorier, le Secrétaire et le Paladin Chatoyant, dans le respect des statuts et des décisions du bureau et du conseil d’administration.
+Les Vice rendent compte de leurs actions auprès du mandat qu'ils représentent.
+
+En cas d’empêchement définitif du Président, du Trésorier, du Secrétaire ou du Paladin Chatoyant, le Vice correspondant assure l’intérim jusqu’à la désignation d’un remplaçant selon les modalités prévues par les statuts.
+
 
 ### ARTICLE 18 - INDEMNITÉS
 
-Toutes les fonctions, y compris celles des membres du Conseil d’Administration et du Bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement de leur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l’Assemblée Générale Ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
+Toutes les fonctions, y compris celles des membres du Conseil d’Administration et du Bureau, sont gratuites et bénévoles. 
+Seuls les frais occasionnés par l’accomplissement de leur mandat sont remboursés sur justificatifs.
+Le rapport financier présenté à l’Assemblée Générale Ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
+
 
 ### ARTICLE 19 - RÈGLEMENT INTÉRIEUR
 
 Un règlement intérieur pourra être établi par le Conseil d’Administration, qui le fera alors approuver par l’Assemblée Générale.
 
+
 ### ARTICLE 20 - CHARTE DE BONNE CONDUITE
 
-Une charte a été établie et approuvée à l’Assemblée Générale de 4 février 2024. Elle s’applique à tous les évènements et moyens de communication type Discord de l’association, aux membres et non-membres. Elle doit être présentée à tous les évènements et être aisément accessible à toute personne voulant participer aux évènements et à la vie de l’association.
-La charte doit être approuvée par tout membre lors de son adhésion. Toute infraction de la charte pourra amener à des sanctions, allant de l’avertissement à la radiation de l’association ou l’inscription sur liste noire.
+
+Une charte a été établie et approuvée à l’Assemblée Générale de 4 février 2024. 
+Elle s’applique à tous les évènements et moyens de communication type Discord de l’association, aux membres et non-membres.
+Elle doit être présentée à tous les évènements et être aisément accessible à toute personne voulant participer aux évènements et à la vie de l’association.
+
+La charte doit être approuvée par tout membre lors de son adhésion. 
+Toute infraction de la charte pourra amener à des sanctions, allant de l’avertissement à la radiation de l’association ou l’inscription sur liste noire.
+
 Tout membre du CA doit avoir lu l’intégralité de la charte.
-La charte peut être modifiée, lors d’un CA sur proposition d’un membre de l’association ou d’une AG, sur un vote à majorité absolue.
-Chaque modification de la charte doit être communiquée et justifiée à l’ensemble des membres de l’association. Les modifications seront appliquées au bout d’un délai d’un mois et une semaine après publication à l’ensemble des membres.
+
+La charte peut être modifiée lors d’un CA, sur vote à majorité absolue.
+
 
 ### ARTICLE 21 - DISSOLUTION
 
-En cas de dissolution prononcée selon les modalités prévues à l’article 15, un ou plusieurs liquidateurs sont nommés, et l’actif net, s’il y a lieu, est dévolu à un organisme ayant un but non lucratif ou à une association ayant des buts similaires conformément aux décisions de l’Assemblée Générale Extraordinaire qui statue sur la dissolution. L’actif net ne peut être dévolu à un membre de l’association, même partiellement, sauf reprise d’un apport.
+
+En cas de dissolution prononcée selon les modalités prévues à l’article 15, un ou plusieurs liquidateurs sont nommés, et l’actif net, s’il y a lieu, est dévolu à un organisme ayant un but non lucratif ou à une association ayant des buts similaires conformément aux décisions de l’Assemblée Générale Extraordinaire qui statue sur la dissolution. 
+L’actif net ne peut être dévolu à un membre de l’association, même partiellement, sauf reprise d’un apport.
+
 
 ### ARTICLE 22 - LIBÉRALITÉS
 
-Le rapport et les comptes annuels, tels que définis à l’article 14 (y compris ceux des comités locaux) sont adressés chaque année au préfet du département.
+
+Le rapport et les comptes annuels, tels que définis à l’article 14 (y compris ceux des comités locaux) sont adressés chaque année au Préfet du département.
+
+
 L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentants de ces autorités compétents et à leur rendre compte du fonctionnement desdits établissements.
 
 
-« Fait à Grenoble, le 31/08/2024. » 
+« Fait à Grenoble, le 28/02/2026. »
