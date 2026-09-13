@@ -23,3 +23,10 @@ L’association a pour valeurs de partager le jeu de rôle et les cultures de l�
  - Nadège : Administrateur
 
 Le CA est renouvelé par moitié tous les ans, lors de l'Assemblée Générale qui a lieu entre janvier et mars. N’hésitez pas à vous présenter si vous êtes membre ! 
+
+# Concernant le site et notre logo
+
+Notre logo appelé "Fumble" présent ci-dessous est une création d'une de nos membre qui nous a cédé les droits d'utilisation.
+![Logo de l'association. Le chat-mascotte, Fumble est enroulé autour d'un D20 où il est marqué 38(Isère)]({% link images/Logo félidé réduit.png %})
+
+Le design de notre site web a été fait avec l'outil [Scribouilli](https://scribouilli.org/) et les couleurs ont été choisies par nos membres lors d'un sondage.
