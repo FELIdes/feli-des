@@ -5,7 +5,7 @@ in_menu: true
 ---
 Retrouvez ici en téléchargement ou juste en-dessous notre charte de respect et de bonne conduite ainsi que les statuts de l'association.
 
-Charte de respect et de bonne conduite [ici](https://drive.google.com/file/d/16-RZdLZmeVv8giCSCK6jeu5xgKpjpv9M/view?usp=sharing)
+Charte de respect et de bonne conduite [ici](https://drive.google.com/file/d/1HfxAH0S1tqesKnd5Ka8B33gI1fMB24me/view?usp=drive_link)
 
 Statuts de l'association [ici](https://drive.google.com/file/d/13p_f3LrRuIiMkPlNA2aQtwdKrppreiup/view?usp=drive_link) 
 
