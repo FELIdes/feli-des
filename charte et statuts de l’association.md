@@ -7,7 +7,7 @@ Retrouvez ici en téléchargement ou juste en-dessous notre charte de respect et
 
 Charte de respect et de bonne conduite [ici](https://drive.google.com/file/d/1HfxAH0S1tqesKnd5Ka8B33gI1fMB24me/view?usp=drive_link)
 
-Statuts de l'association [ici](https://drive.google.com/file/d/13p_f3LrRuIiMkPlNA2aQtwdKrppreiup/view?usp=drive_link) 
+Statuts de l'association [ici](https://drive.google.com/file/d/1y0yuFDd3zXtm68n4ad9uHcspOVWchlxY/view?usp=sharing) 
 
 <p class="encart">Charte de respect et de bonne conduite</p>
 
